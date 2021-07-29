@@ -53,6 +53,9 @@
 
         <!-- actual JDK modules -->
         <module>java.base</module>
+
+        <!-- actual JDK modules -->
+        <module>java.logging</module>
     </modules>
 
     <dependencyManagement>
