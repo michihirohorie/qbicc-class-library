@@ -53,6 +53,8 @@
 
         <!-- actual JDK modules -->
         <module>java.base</module>
+
+        <module>java.management</module>
     </modules>
 
     <dependencyManagement>
