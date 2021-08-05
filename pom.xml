@@ -53,6 +53,8 @@
 
         <!-- actual JDK modules -->
         <module>java.base</module>
+
+        <module>jdk.unsupported</module>
     </modules>
 
     <dependencyManagement>
